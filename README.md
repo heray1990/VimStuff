@@ -1,8 +1,10 @@
-# vimstuff
+# VimStuff
 
 Minimal effort. Maximal effect
 
-## How to switch from normal mode to insert mode
+## The relationship between different modes
+
+![relationship_between_different_modes](https://raw.githubusercontent.com/heray1990/vimstuff/master/images/modes.png)
 
 <table>
 	<tr>
@@ -51,6 +53,6 @@ Minimal effort. Maximal effect
 	</tr>
 </table>
 
-## The relationship between different modes
+## Vim graphical keyboard cheat sheet
 
-![relationship_between_different_modes](https://raw.githubusercontent.com/heray1990/vimstuff/master/images/modes.png)
+![vi-vim-cheat-sheet](https://raw.githubusercontent.com/heray1990/vimstuff/master/images/vi-vim-cheat-sheet.gif)
