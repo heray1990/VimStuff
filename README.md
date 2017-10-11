@@ -51,3 +51,6 @@ Minimal effort. Maximal effect
 	</tr>
 </table>
 
+## The relationship between different modes
+
+![relationship_between_different_modes](https://raw.githubusercontent.com/heray1990/vimstuff/master/images/modes.png)
